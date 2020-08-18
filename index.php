@@ -115,7 +115,7 @@
                     </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>4. Controle</h3>
+                    <h3>Controle</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=controle&file=if_else">
@@ -155,6 +155,16 @@
                         <li>
                             <a href="exercicio.php?dir=controle&file=desafio_switch">
                                 Desafio Switch
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo laranja">
+                    <h3>Arrays</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">
+                                Básico
                             </a>
                         </li>
                     </ul>
