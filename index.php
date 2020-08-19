@@ -331,6 +331,26 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo azul-escuro">
+                    <h3>POO</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=poo&file=classe">
+                                Primeira Classe
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=poo&file=desafio-data">
+                                Desafio Data
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=poo&file=construtor-destrutor">
+                                Construtor e Destrutor
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
