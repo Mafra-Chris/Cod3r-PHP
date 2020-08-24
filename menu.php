@@ -477,4 +477,19 @@
             <li><a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessão</a></li>
         </ul>
     </div>
+    <div class="modulo azul">
+        <h3>API</h3>
+        <ul>
+            <li><a href="exercicio.php?dir=api&file=datas_01">Datas #01</a></li>
+        </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=api&file=datas_02">Datas #02</a></li>
+        </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=api&file=escrever_arquivo">Escrever Arquivo</a></li>
+        </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=api&file=ler_arquivo">Ler Arquivo</a></li>
+        </ul>
+    </div>
 </nav>
