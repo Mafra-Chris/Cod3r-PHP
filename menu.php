@@ -521,5 +521,11 @@
         <ul>
             <li><a href="exercicio.php?dir=db&file=consultar">Consultar Registros</a></li>
         </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=excluir_1">Excluir #1</a></li>
+        </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=excluir_2">Excluir #2</a></li>
+        </ul>
     </div>
 </nav>
