@@ -530,5 +530,14 @@
         <ul>
             <li><a href="exercicio.php?dir=db&file=inserir_2">Inserir #2</a></li>
         </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=alterar">Alterar Registro</a></li>
+        </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=inserir_pdo">PDO: Inserir</a></li>
+        </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=consulta_pdo">PDO: Consultar</a></li>
+        </ul>
     </div>
 </nav>
