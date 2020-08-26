@@ -539,5 +539,11 @@
         <ul>
             <li><a href="exercicio.php?dir=db&file=consulta_pdo">PDO: Consultar</a></li>
         </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=excluir_pdo">PDO: Excluir</a></li>
+        </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=alterar_pdo">PDO: Alterar</a></li>
+        </ul>
     </div>
 </nav>
