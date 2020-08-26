@@ -527,5 +527,8 @@
         <ul>
             <li><a href="exercicio.php?dir=db&file=excluir_2">Excluir #2</a></li>
         </ul>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=inserir_2">Inserir #2</a></li>
+        </ul>
     </div>
 </nav>
